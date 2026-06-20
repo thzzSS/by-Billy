@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: Yy/C9kqmFLI/ubWHqAkqyCKGuggmIHHkLa8hxLti7Mw=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: fTZQ6wUZlU/5Kt21ijM3N6LVrjxPIWQ5DSTnFSf92dE=
+
+Name: MitmProxy/burpsuite-ca.crt
+SHA-256-Digest: Tc/CVWYArv8/ZjubfPnTwYqJUyC7THeDjMuFwcl6so0=
+
+Name: MitmProxy/charles-ssl-proxying.pem
+SHA-256-Digest: bwnLchJ8HXwxnCFTBL1X+PwVpp0NaSTPYx2q2pzT1n8=
+
+Name: MitmProxy/fiddler-root-cert.cer
+SHA-256-Digest: Qa1xDZiyxTxhXGuv2Op49S+UuRltsrVV7/6x7ukYu/E=
+
+Name: MitmProxy/mitmproxy-ca-cert.pem
+SHA-256-Digest: Bw0NvOH4Nf6oolxAthP3x8Mp0c2t2MCxpJnmFXf8KTA=
+
+Name: SSL-Bypass/pinning
+SHA-256-Digest: HirVK6hm99yuunEBgxEmLEbIxh0z821zF51AkLzvQpo=
+
+Name: SSL-Bypass/ssl
+SHA-256-Digest: 6wgNr76wDhNrZ50tp8WKQvKn6LgAvBrPLZqpQgC7VKY=
+
+Name: classes.dex
+SHA-256-Digest: N6SlH3oCU39zpWiAE+EKU1grmXZ1o1eP+SoXM5qKbFU=
+
+Name: classes2.dex
+SHA-256-Digest: pgqvBgFk0QoCYBkqDXp/0YkpUMhsF1BSoefT3UdiwbQ=
+
+Name: lib/arm64-v8a/libDRIR.so
+SHA-256-Digest: YmYe2ulnk6weoLOcC2WcGXe1mG85T3MVh2JA8nKWfck=
+
+Name: lib/arm64-v8a/libconscrypt_jni.so
+SHA-256-Digest: IqL5bBBRRJVPvMsP0EifYbHP+o4B8tho+aRnvro5I/I=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA-256-Digest: lY7ti3U0kk09VbLrS4VhTEISEja1fAbDneN3v2V8xFY=
+
+Name: lib/arm64-v8a/libn8x3k7.so
+SHA-256-Digest: ppxeehGF80oQdvhOkNwpDZj1U40UMSHeVEc7Bdo458U=
+
+Name: lib/arm64-v8a/libspake2.so
+SHA-256-Digest: E2ob4sgsJ/pDsgNMZHa+azUdhZpky7KCvAyKU8u0D9A=
+
+Name: lib/armeabi-v7a/libDRIR.so
+SHA-256-Digest: Oocpja3pxHYLoJgut6ooFGxlfTAAwYK3AZj1dT8koXw=
+
+Name: lib/armeabi-v7a/libconscrypt_jni.so
+SHA-256-Digest: n1plgEMEuGXvow/J6nG3lld84y5dTtfmhC5YCG6DQkg=
+
+Name: lib/armeabi-v7a/libcrashlytics.so
+SHA-256-Digest: J7aIWmI8aZnFqcBwGzuixonwGSSvyYMEnkZt9Y9/lSI=
+
+Name: lib/armeabi-v7a/libn8x3k7.so
+SHA-256-Digest: QbAPeqWCzL+M/zHE8NCN+MbgMDOq5gqyiIlVZv0K3eQ=
+
+Name: lib/armeabi-v7a/libspake2.so
+SHA-256-Digest: H1cj8wnBfNtLJJCHTms9FkZtXMOSGnphEHcJWE4/dOE=
+
+Name: res/xml/jshshjkx.xml
+SHA-256-Digest: yQW4xXhVnDKcxEM8bCLEiumg4eCs8yZsMmnUAqBhhts=
+
+Name: resources.arsc
+SHA-256-Digest: +c5yPGTVucFNRowpTCF5YgqLl+s61U73REupK5DhH3o=
+
+Name: ۦ/۟
+SHA-256-Digest: BJqWUJpZwfBoG7ayh+jiAowTty4jTXVgIAJBBqfWD9g=
+
+Name: ۦ/۠.xml
+SHA-256-Digest: 3NStIaR7ad6nAW0F3t32blKR4yIh/WzlCy/7NXXA99s=
+
